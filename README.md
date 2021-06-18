@@ -14,7 +14,7 @@ Users can also send emails directly from the frontend built using ReactJS. These
 <h3>Email Page</h3>
 <img src="images/sendemailpage.png">
 <br>
-Emails can be sent to multiple users by the separating multiple Email-IDs using commas(,).
+Emails can be sent to multiple recipients at the same time by the separating multiple Email-IDs using commas(,).
 <img src="images/filledemaildetails.png">
 <br>
 Once the send button is Clicked, email will be sent to the respective recipients and the user will be notified that the email has been sent successfully using a Toast Notification.
